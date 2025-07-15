@@ -1,0 +1,21 @@
+# Task 3: Exploratory Data Analysis (EDA)
+
+✔ Generated summary statistics for numerical columns.
+✔ Median Monthly Charges: [INSERT FROM OUTPUT]
+✔ Mode Tenure: [INSERT FROM OUTPUT]
+✔ Plotted:
+  - Histogram of Monthly Charges
+  - Boxplot of Monthly Charges by Churn
+  - Pie chart of Churn vs Non-Churn
+
+📌 Insights:
+- Customers with higher monthly charges tend to churn more.
+- Most customers have lower tenure.
+- Churn rate is around [INSERT % FROM PIE CHART]
+
+✅ EDA complete, visuals created for better data understanding.
+
+Summary stats	Got mean, median, mode for key columns
+Histogram of MonthlyCharges Showed how charges are distributed across customers
+Boxplot by Churn Helped visualize if churned customers pay more
+Pie chart of churn vs non-churn

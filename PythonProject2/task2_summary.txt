@@ -1,0 +1,8 @@
+# Task 2: Data Cleaning
+
+✔ Converted 'TotalCharges' column to numeric using `pd.to_numeric(errors='coerce')`.
+✔ Identified and removed 11 rows with missing 'TotalCharges'.
+✔ Checked and confirmed no duplicate rows existed.
+✔ Standardized all column names to lowercase and replaced spaces with underscores.
+
+✅ Cleaned dataset saved as 'cleaned_telecom_churn.csv' for use in future tasks.

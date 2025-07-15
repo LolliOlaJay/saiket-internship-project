@@ -1,0 +1,15 @@
+# Task 1: Dataset Understanding
+
+✔ Loaded the dataset successfully using pandas.
+✔ Displayed the first 10 rows to get an overview of customer data.
+✔ Identified the data types of each column:
+  - Most are object or integer types.
+  - Noticed that 'TotalCharges' is of object type instead of numeric.
+✔ Checked for missing values:
+  - No direct missing values reported, but 'TotalCharges' might contain blanks.
+
+⚠️ Notes:
+- Will need to handle 'TotalCharges' during Task 2 (Data Cleaning).
+- No obvious data issues, but will standardize column names later.
+
+

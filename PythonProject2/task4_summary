@@ -1,0 +1,16 @@
+# Task 4: Customer Segmentation Visualization
+
+✔ Grouped customers into 3 tenure segments:
+  - 0–12 months
+  - 13–36 months
+  - 37+ months
+
+✔ Visualized customer count per group using a donut chart.
+✔ Visualized average monthly charges per group using a clustered bar chart.
+✔ Added annotations to highlight differences in average spend.
+
+📌 Observations:
+- [e.g. Customers with 37+ months tenure tend to pay less on average.]
+- [e.g. Majority of customers fall in 0–12 month group.]
+
+✅ Segmentation visuals ready for final presentation.

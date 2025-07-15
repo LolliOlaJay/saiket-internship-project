@@ -1,0 +1,18 @@
+# Task 5: Advanced Analysis
+
+✔ Calculated churn rate by tenure group.
+✔ Found which tenure group has the highest risk.
+✔ Analyzed churn rates based on:
+  - Gender
+  - Senior citizen status
+  - Payment method
+  - Contract type
+
+✔ Visualized churn patterns using bar plots.
+
+📌 Insights:
+- [e.g. Customers with month-to-month contracts churn more.]
+- [e.g. Senior citizens showed slightly higher churn rates.]
+- [e.g. Automatic payment methods reduced churn.]
+
+✅ Deep insights ready for stakeholder recommendation!
